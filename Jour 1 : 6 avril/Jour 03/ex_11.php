@@ -1,8 +1,9 @@
 <?php
     function my_sub(){
-        $nb_a;
-        $nb_b;
+        global $nb_a;
+        global $nb_b;
+        $result = 0;
         $nb_a - $nb_b = $result;
-        $result = $nb_a;
+        $nb_a = $result;
     }
 ?>
