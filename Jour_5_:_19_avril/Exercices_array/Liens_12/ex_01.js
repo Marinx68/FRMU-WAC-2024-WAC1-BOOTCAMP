@@ -1,0 +1,1 @@
+// Ecrire un programme C qui lit la taille N d'un tableau T du type entier, remplit le tableau par des valeurs entrées au clavier et calcule et affiche ensuite la somme, le produit et la moyenne des éléments du tableau.
