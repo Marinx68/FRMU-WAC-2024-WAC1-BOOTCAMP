@@ -4,3 +4,6 @@
 // "Rouge,Vert,Blanc,Noir"
 // "Rouge,Vert,Blanc,Noir"
 // "Rouge+Vert+Blanc+Noir"
+
+const array = ["Red", "Green", "White", "Black",];
+array.toString();
